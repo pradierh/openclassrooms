@@ -5,7 +5,7 @@
 Welcome to my Openclassroom Homework Repository! :wave: This repository contains all the assignments and projects I have completed as part of various Openclassrooms courses and certifications. Each course has its own dedicated folder, and within each folder, you'll find the corresponding assignments and any additional resources. :file_folder:
 
 ## Table of Contents :scroll:
-- [Web developer certification (RNCP NIV.5 / BAC +2)](./SQL%20for%20Data%20Science)
+- [Web developer certification (RNCP NIV.5 / BAC +2)](./booki-starter-code-master)
 
 If you would like to contribute to this repository, please follow these steps:
 
