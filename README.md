@@ -5,12 +5,7 @@
 Welcome to my Openclassroom Homework Repository! :wave: This repository contains all the assignments and projects I have completed as part of various Openclassrooms courses and certifications. Each course has its own dedicated folder, and within each folder, you'll find the corresponding assignments and any additional resources. :file_folder:
 
 ## Table of Contents :scroll:
-
-### Data analytics :microscope:
-`SQL` `Tableau` `PowerBI` `Python` `R`
-
-- [SQL for Data Science](./SQL%20for%20Data%20Science)
-- [IBM Data Analyst Professional Certificate](./IBM%20Data%20Analyst%20Certificat%20Professionnel)
+- [Web developer certification (RNCP NIV.5 / BAC +2)](./SQL%20for%20Data%20Science)
 
 If you would like to contribute to this repository, please follow these steps:
 
