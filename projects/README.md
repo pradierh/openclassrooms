@@ -17,42 +17,42 @@ Here are some typical missions you'll undertake:
 ### 📘 [PROJECT 1: Start your Web Developer Training](link_to_github_project_1)
 Discover your projects and plan your training.
 
-Duration: 22 supervised hours
+&nbsp;&nbsp;&nbsp;&nbsp;_Duration:_ <ins>*22 supervised hours*</ins>
 
 ### 📘 [PROJECT 2: Create the homepage of a travel agency with HTML & CSS](link_to_github_project_2)
 Get started with HTML and CSS by integrating the Booki website, a holiday booking platform.
 
-Duration: 22 supervised hours
+&nbsp;&nbsp;&nbsp;&nbsp;_Duration:_ <ins>*22 supervised hours*</ins>
 
 ### 📗 [PROJECT 3: Create a dynamic web page with JavaScript](link_to_github_project_3)
 Help your team finalize the new website for an architect by creating a dynamic site with JavaScript, communicating with an API.
 
-Duration: 80 supervised hours
+&nbsp;&nbsp;&nbsp;&nbsp;_Duration:_ <ins>*80 supervised hours*</ins>
 
 ### 📕 [PROJECT 4: Debug and optimize a photographer's website](link_to_github_project_4)
 Help your client appear at the top of Google search results with SEO and accessibility best practices. You'll also need to debug some code anomalies.
 
-Duration: 60 supervised hours
+&nbsp;&nbsp;&nbsp;&nbsp;_Duration:_ <ins>*60 supervised hours*</ins>
 
 ### 📙 [PROJECT 5: Create a real estate web application with React](link_to_github_project_5)
 Implement the front end of Kasa, a housing rental application. Set up components with React and application routes with React Router.
 
-Duration: 50 supervised hours
+&nbsp;&nbsp;&nbsp;&nbsp;_Duration:_ <ins>*50 supervised hours*</ins>
 
 ### 📔 [PROJECT 6: Develop the back end of a book rating site](link_to_github_project_6)
 Create the back end of a book rating site to integrate properly with the front end. You'll use Node.js, Express, and MongoDB.
 
-Duration: 60 supervised hours
+&nbsp;&nbsp;&nbsp;&nbsp;_Duration:_ <ins>*60 supervised hours*</ins>
 
 ### 📓 [PROJECT 7: Plan the development of your client's website](link_to_github_project_7)
 Plan each stage of the development project for a menu creation site for restaurateurs.
 
-Duration: 60 supervised hours
+&nbsp;&nbsp;&nbsp;&nbsp;_Duration:_ <ins>*60 supervised hours*</ins>
 
 ### 📚 [PROJECT 8: Create and publish your developer portfolio](link_to_github_project_8)
 Take stock of your skills, prepare for your job search, and deploy your portfolio online to showcase your projects.
 
-Duration: 40 supervised hours
+&nbsp;&nbsp;&nbsp;&nbsp;_Duration:_ <ins>*40 supervised hours*</ins>
 
 ### 🎓 [DIPLOMA: COMPUTER DEVELOPER](link_to_github_diploma)
 
