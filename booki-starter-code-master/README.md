@@ -1,4 +1,4 @@
-![Banner](link_to_your_banner_image)
+![png](readme_pictures/banner.png)
 
 # booki-starter-pack
 
