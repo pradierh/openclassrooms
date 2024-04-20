@@ -1,39 +1,56 @@
+![Banner](link_to_your_banner_image)
+
 # booki-starter-pack
 
-L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix. 
+The company aims to develop a website that allows users to find accommodations and activities in the city of their choice.
 
-Vous êtes chargé d'intégrer l'interface du site avec du code HTML et CSS. Pour cela, vous travaillez en étroite collaboration avec Sarah, la CTO, et Loïc, l’UI designer. 
+You are tasked with integrating the website interface with HTML and CSS code. For this, you work closely with Sarah, the CTO, and Loïc, the UI designer.
 
-Sarah vous envoie un e-mail pour vous présenter l’avancée du projet.
+Sarah sends you an email to present the progress of the project.
 
-## 🚀 Objet : Maquettes site Booki
-**De** : Sarah
-**À** : Moi
+## 🚀 Subject: Booki Website Mockups
+**From**: Sarah
 
-Bonjour,
- 
-Ça y est, Loïc a finalisé les maquettes desktop, tablette et mobile du site ! Tu vas pouvoir les intégrer. Elles sont disponibles en pièces jointes. 
+**To**: Me
 
-Pour que le projet soit très clair, Loïc et moi t’avons préparé une note de synthèse qui regroupe les spécifications et contraintes techniques à respecter (voir pièce jointe).
+Hello,
 
-Pour t’aider à démarrer, je t’ai préparé la structure de fichiers du site ainsi qu’une base de code : 
-- un fichier “index.html” contenant une première base du code HTML que tu devras compléter ;
-- un dossier “css” contenant un ou plusieurs fichiers “style.css” avec une première ébauche du code CSS et que tu devras compléter également ;
-- un dossier “images” contenant l’ensemble des images utilisées sur le site.
+Loïc has finalized the desktop, tablet, and mobile mockups of the website! You will be able to integrate them. They are available as attachments.
 
-Ce code est déjà un peu fourni et il te donnera les premiers éléments HTML et CSS. Tu peux t’en inspirer pour développer le reste du code, et il faut que tu conserves la même structure de dossiers. Tu devras ensuite m’envoyer ce dossier complet via GitHub. Pense d'ailleurs à bien versionner ton projet sur Git tout au long de ton développement.
+To ensure clarity in the project, Loïc and I have prepared a summary note that includes the specifications and technical constraints to follow (see attachment).
 
-Bon courage pour ce projet, et bonne journée !
+To help you get started, I have prepared the file structure of the website and a base of code:
+- an "index.html" file containing an initial HTML code base that you will need to complete;
+- a "css" folder containing one or more "style.css" files with an initial draft of CSS code that you will also need to complete;
+- an "images" folder containing all the images used on the site.
+
+This code is already somewhat developed and will provide you with the initial HTML and CSS elements. You can use it as inspiration to develop the rest of the code, and you must maintain the same folder structure. You will then need to send me this complete folder via GitHub. Also, remember to version your project on Git throughout your development.
+
+Good luck with this project, and have a great day!
 Sarah, CTO @Booki
 
-## Structure du Projet
+## 🏗️ Project Structure
 
-📁 **booki/**
+```<name of the language>
+📁 project_folder/
 │
 ├── 📄 index.html
+│
 ├── 📁 css/
 │   └── 📄 style.css
+│
 └── 📁 images/
     ├── 🖼️ image1.jpg
     ├── 🖼️ image2.png
     └── ...
+```
+
+## 🛠️ Used languages
+
+In this project, we primarily use the following languages:
+
+| Langage |
+| ------- |
+| <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML |
+| <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS |
+
