@@ -223,8 +223,12 @@ a {
 	border-radius: 25px;
 	background-color: white;
 	padding: 13px;
-	margin-left: 15px;
+	margin-right: 15px;
 	cursor: pointer;
+}
+
+.filters-section span {
+margin-right: 15px;
 }
 
 .filters-section button i {
@@ -507,6 +511,18 @@ footer li:first-child {
 	.filters-section {
 		flex-direction: column;
 		align-items: start;
+	}
+	.filters-button-text {
+		font-size: 16px;
+	}
+
+	.activities-cards .long-card {
+		width: 193px;
+		height: 270px;
+	}
+
+	.filters-section button {
+		margin-top: 15px;
 	}
 }
 
