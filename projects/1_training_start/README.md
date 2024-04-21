@@ -19,3 +19,4 @@ Here are two courses we recommend you take:
 To set yourself up for success, follow and complete step-by-step this training start sheet.
 It will guide you through all the stages of your project.
 
+> [My training Start Sheet](Pradier_Hugo_01_fiche_170424.pdf)
