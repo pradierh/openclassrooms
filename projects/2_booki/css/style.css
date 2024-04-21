@@ -32,9 +32,46 @@ a {
 	text-decoration: none;
 }
 
-.section-title {
+.titles {
 	margin: 0;
 	font-size: 22px;
+	font-weight: bold;
+}
+
+.subtitles {
+	font-size: 14px;
+}
+
+.cards-titles {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.simple-text {
+	font-size: 16px;
+}
+
+.bold-text {
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.bold-text-filters {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.filters-button-text {
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.long-cards-titles {
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 5px;
 }
 
 .card {
@@ -149,8 +186,6 @@ a {
 
 .searchInput {
 	border: 1px solid #f2f2f2;
-	font-size: 18px;
-	font-weight: bold;
 	width: 53%;
 	text-align: center;
 	padding: 0px;
@@ -168,8 +203,6 @@ a {
 	padding: 0;
 	border-radius: 0 15px 15px 0;
 	color: #fff;
-	font-size: 18px;
-	font-weight: bold;
 	cursor: pointer;
 	flex-shrink: 0;
 }
@@ -178,10 +211,14 @@ a {
 	display: none;
 }
 
+.filters-section {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+}
 .filters-section button {
 	border: 2px solid #d9d9d9;
-	font-size: 17px;
-	font-weight: bold;
 	text-align: center;
 	border-radius: 25px;
 	background-color: white;
@@ -193,11 +230,6 @@ a {
 .filters-section button i {
 	padding-right: 10px;
 	padding-left: 5px;
-}
-
-.filters-section span {
-	font-size: 18px;
-	font-weight: bold;
 }
 
 .filters-section button:hover {
@@ -225,6 +257,7 @@ a {
 /****** Hebergements And Populaires ***********/
 .hebergements-and-populaires {
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: space-between;
 	padding-top: 30px;
 }
@@ -371,14 +404,6 @@ a {
 	object-fit: cover;
 }
 
-.long-card-title {
-	font-size: 16px;
-	font-weight: bold;
-	padding-bottom: 5px;
-	padding-top: 5px;
-	padding-left: 5px;
-}
-
 .activities-cards {
 	display: flex;
 	justify-content: space-between;
@@ -477,6 +502,11 @@ footer li:first-child {
 
 	.populaires-cards .card-subtitle {
 		font-size: 13px;
+	}
+
+	.filters-section {
+		flex-direction: column;
+		align-items: start;
 	}
 }
 
