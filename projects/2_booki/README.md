@@ -1,6 +1,6 @@
 ![png](readme_pictures/banner.png)
 
-# booki-starter-pack
+# Booki
 
 The company aims to develop a website that allows users to find accommodations and activities in the city of their choice.
 
