@@ -1,57 +1,21 @@
 ![png](readme_pictures/banner.png)
 
-# booki-starter-pack
 
-The company aims to develop a website that allows users to find accommodations and activities in the city of their choice.
+# Getting Started with Your Learning Journey!
 
-You are tasked with integrating the website interface with HTML and CSS code. For this, you work closely with Sarah, the CTO, and Loïc, the UI designer.
+## Follow Specific Courses
 
-Sarah sends you an email to present the progress of the project.
+At OpenClassrooms, acquiring skills and knowledge is done through practical projects!
 
-## 🚀 Subject: Booki Website Mockups
+They immerse you directly into the real activities of your future profession.
 
-**From**: Sarah
+Here are two courses we recommend you take:
 
-**To**: Me
+   - Engage in Your OpenClassrooms Training to deeply understand how your training works.
+   - Section: Students - Maximize Your Learning from the course "Use ChatGPT to Improve Your Productivity," to assist you in your learning practices.
 
-Hello,
+## Complete Your Training Start Sheet
 
-Loïc has finalized the desktop, tablet, and mobile mockups of the website! You will be able to integrate them. They are available as attachments.
+To set yourself up for success, follow and complete step-by-step this training start sheet.
+It will guide you through all the stages of your project.
 
-To ensure clarity in the project, Loïc and I have prepared a summary note that includes the specifications and technical constraints to follow (see attachment).
-
-To help you get started, I have prepared the file structure of the website and a base of code:
-
--   an "index.html" file containing an initial HTML code base that you will need to complete;
--   a "css" folder containing one or more "style.css" files with an initial draft of CSS code that you will also need to complete;
--   an "images" folder containing all the images used on the site.
-
-This code is already somewhat developed and will provide you with the initial HTML and CSS elements. You can use it as inspiration to develop the rest of the code, and you must maintain the same folder structure. You will then need to send me this complete folder via GitHub. Also, remember to version your project on Git throughout your development.
-
-Good luck with this project, and have a great day!
-Sarah, CTO @Booki
-
-## 🏗️ Project Structure
-
-```<name of the language>
-📁 project_folder/
-│
-├── 📄 index.html
-│
-├── 📁 css/
-│   └── 📄 style.css
-│
-└── 📁 images/
-    ├── 🖼️ image1.jpg
-    ├── 🖼️ image2.png
-    └── ...
-```
-
-## 🛠️ Used languages
-
-In this project, we primarily use the following languages:
-
-| Langage                                                             |
-| ------------------------------------------------------------------- |
-| <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML |
-| <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS    |
