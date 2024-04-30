@@ -286,12 +286,14 @@ a {
 	flex-wrap: wrap;
 	margin-top: 33px;
 	flex-direction: column;
+	height: 83.8%;
 }
 
 .hebergements-row {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
+	align-items: stretch;
 }
 
 .hebergements-row a {
@@ -423,10 +425,12 @@ a {
 	display: flex;
 	justify-content: space-between;
 	padding-top: 20px;
+	align-items: stretch;
 }
 .activities-cards .long-card {
 	display: flex;
 	flex-direction: column;
+	height: 100%;
 }
 
 .activities-cards img {
