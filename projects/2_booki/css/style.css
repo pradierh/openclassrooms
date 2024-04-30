@@ -491,8 +491,6 @@ footer li:first-child {
 @media (min-width: 1900px) {
 	.shadow {
 		box-shadow: 0px 3px 5px 1px rgba(0, 0, 0, 0.4);
-		width: 380px;
-		border-radius: 15px;
 	}
 }
 
@@ -569,9 +567,25 @@ footer li:first-child {
 		justify-content: center;
 		align-items: center;
 		height: 115px;
-		border-bottom: solid 2px var(--main-color);
 		padding-bottom: 5px;
 		margin-bottom: 50px;
+	}
+
+	.navbar li {
+		float: none;
+		border-bottom: solid 2px var(--filter-bg-color);
+	}
+
+	.navbar li a:first-child {
+		margin-right: 0px;
+	}
+
+	.navbar li:first-child {
+		border-color: #0065fc;
+	}
+
+	.navbar li a {
+		margin-left: 0px;
 	}
 
 	.navbar img {
@@ -581,6 +595,7 @@ footer li:first-child {
 	.navbar ul {
 		width: 100%;
 		align-items: center;
+		display: flex;
 	}
 
 	.navbar li {
@@ -589,14 +604,15 @@ footer li:first-child {
 
 	#current-page {
 		border-top: none;
-		padding-top: none;
+		padding-top: 15px;
+		padding-bottom: 14px;
 	}
 	.main-container {
 		padding: 0px;
 	}
 
 	.searchInput {
-		width: 63%;
+		width: 73%;
 	}
 	.title-header {
 		padding-left: 20px;
@@ -604,19 +620,28 @@ footer li:first-child {
 	}
 
 	.shadow {
-		width: 100%;
+		width: 89.334%;
 	}
 	.searchBar {
 		padding: 0px 20px;
 	}
 
+	.bold-text {
+		font-size: 18px;
+	}
+
 	.searchButton {
 		border-radius: 15px;
-		width: 13%;
+		width: 14.95%;
 		margin: 0px -10px;
+		box-shadow: 0px 3px 5px 1px rgba(0, 0, 0, 0.4);
 	}
 	.searchButton i {
 		display: block;
+	}
+
+	.containerMarker {
+		width: 14.95%;
 	}
 
 	.searchButton span {
@@ -630,9 +655,19 @@ footer li:first-child {
 		margin-right: 0px;
 	}
 
+	.filters-buttons {
+		width: 100%;
+		text-align: center;
+	}
+
 	.filters-section button {
 		margin-top: 15px;
-		width: 49%;
+		width: 48.5%;
+		padding: 13.5px 0px;
+	}
+
+	.filters-button-text {
+		font-size: 14px;
 	}
 
 	.info {
@@ -653,7 +688,7 @@ footer li:first-child {
 	}
 
 	.populaires {
-		background-color: var(--main-bg-color);
+		background-color: var(--main-bg-color) !important ;
 	}
 	.hebergements-row a {
 		width: 100%;
@@ -681,7 +716,7 @@ footer li:first-child {
 	}
 
 	.populaires {
-		background-color: grey;
+		background-color: var(--filter-bg-color);
 	}
 
 	.activities-cards {
@@ -711,5 +746,8 @@ footer li:first-child {
 	}
 	.footer-colonne {
 		width: 100%;
+	}
+	footer li {
+		padding-left: 30px;
 	}
 }
